@@ -1,0 +1,50 @@
+#foreach($fieldEntry in $countryActivityEffortSums.entrySet())
+<h1>$fieldEntry.getKey()</h1>
+
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width: 100%;">
+    <thead>
+    <tr>
+        <th style="text-align: left;">Activity\Site</th>
+        #foreach($site in $countryFieldSums.keySet())
+            <th>$site</th>
+        #end
+        <th>Total</th>
+    </tr>
+    </thead>
+    <tbody>
+    #foreach($activityEntry in $fieldEntry.getValue().entrySet())
+    <tr>
+        <td>$activityEntry.getKey()</td>
+        #set($rowTotal = 0)
+    #foreach($siteKey in $countryFieldSums.keySet())
+    #if($activityEntry.getValue().get($siteKey))
+        <td>$activityEntry.getValue().get($siteKey)</td>
+        #set($rowTotal = $rowTotal + $activityEntry.getValue().get($siteKey))
+    #else
+        <td>0</td>
+    #end
+    #end
+        <td><strong>$rowTotal</strong></td>
+    </tr>
+    #end
+
+    <tr>
+        <td><strong>Total</strong></td>
+        #set($columnTotal = 0)
+        #foreach($siteKey in $countryFieldSums.keySet())
+            #set($siteTotal = 0)
+            #foreach($activityEntry in $fieldEntry.getValue().entrySet())
+                #if($activityEntry.getValue().get($siteKey))
+                    #set($siteTotal = $siteTotal + $activityEntry.getValue().get($siteKey))
+                #end
+            #end
+            <td><strong>$siteTotal</strong></td>
+            #set($columnTotal = $columnTotal + $siteTotal)
+        #end
+        <td><strong>$columnTotal</strong></td>
+    </tr>
+    </tbody>
+</table>
+
+<hr/>
+#end

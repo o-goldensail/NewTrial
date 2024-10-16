@@ -1,0 +1,896 @@
+2024-09-09 09:10:54,423 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 09:10:54,432 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 09:10:54,432 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 09:10:54,448 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 09:10:54,448 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 09:10:54,457 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 09:10:54,457 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:10:54,457 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:10:54,458 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 09:10:54,458 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:10:54,458 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 09:10:54,458 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:10:54,458 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:10:54,459 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 09:10:54,459 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:10:54,459 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 09:10:54,459 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:10:54,459 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:10:54,460 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 09:10:54,460 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 09:10:54,460 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 09:10:54,460 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:10:54,460 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:10:54,460 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 09:10:54,460 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:10:54,460 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 09:10:54,461 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:10:54,461 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:10:54,461 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 09:10:54,461 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 09:10:54,461 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 09:10:54,461 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:10:54,461 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:10:54,462 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 09:10:54,462 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 09:10:54,462 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 09:10:54,462 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:10:54,462 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:10:54,463 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 09:10:54,463 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 09:10:54,463 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 09:10:54,463 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:10:54,463 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:10:54,464 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 09:10:54,464 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:10:54,464 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 09:10:54,464 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:10:54,464 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:10:54,465 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 09:10:54,465 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 09:10:54,465 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 09:10:54,465 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:10:54,465 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:10:54,466 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 09:10:54,466 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 09:10:54,466 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 09:19:06,165 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 09:19:06,188 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 09:19:06,188 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 09:19:06,203 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 09:19:06,203 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 09:19:06,212 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 09:19:06,212 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:19:06,212 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:19:06,213 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 09:19:06,214 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:19:06,214 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 09:19:06,214 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:19:06,214 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:19:06,215 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 09:19:06,215 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:19:06,215 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 09:19:06,215 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:19:06,215 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:19:06,216 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 09:19:06,216 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 09:19:06,216 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 09:19:06,216 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:19:06,216 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:19:06,216 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 09:19:06,217 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:19:06,217 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 09:19:06,217 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:19:06,217 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:19:06,217 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 09:19:06,217 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 09:19:06,217 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 09:19:06,218 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:19:06,218 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:19:06,219 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 09:19:06,219 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 09:19:06,219 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 09:19:06,219 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:19:06,219 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:19:06,220 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 09:19:06,220 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 09:19:06,220 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 09:19:06,220 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:19:06,220 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:19:06,220 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 09:19:06,220 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:19:06,221 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 09:19:06,221 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:19:06,221 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:19:06,221 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 09:19:06,221 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 09:19:06,221 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 09:19:06,221 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:19:06,221 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:19:06,222 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 09:19:06,222 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 09:19:06,222 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 09:26:55,869 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 09:26:55,875 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 09:26:55,875 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 09:26:55,891 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 09:26:55,891 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 09:26:55,900 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 09:26:55,900 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:26:55,900 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:26:55,901 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 09:26:55,902 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:26:55,902 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 09:26:55,902 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:26:55,902 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:26:55,903 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 09:26:55,903 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:26:55,903 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 09:26:55,903 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:26:55,903 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:26:55,904 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 09:26:55,904 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 09:26:55,904 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 09:26:55,904 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:26:55,904 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:26:55,905 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 09:26:55,905 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:26:55,905 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 09:26:55,905 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:26:55,905 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:26:55,905 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 09:26:55,905 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 09:26:55,906 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 09:26:55,906 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:26:55,906 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:26:55,906 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 09:26:55,906 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 09:26:55,906 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 09:26:55,906 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:26:55,906 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:26:55,907 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 09:26:55,907 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 09:26:55,907 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 09:26:55,907 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:26:55,907 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:26:55,908 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 09:26:55,908 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:26:55,908 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 09:26:55,908 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:26:55,908 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:26:55,909 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 09:26:55,909 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 09:26:55,909 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 09:26:55,909 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:26:55,909 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:26:55,910 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 09:26:55,910 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 09:26:55,910 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 09:32:59,096 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 09:32:59,115 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 09:32:59,115 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 09:32:59,147 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 09:32:59,147 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 09:32:59,158 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 09:32:59,158 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:32:59,158 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:32:59,159 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 09:32:59,159 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:32:59,159 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 09:32:59,159 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:32:59,159 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:32:59,160 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 09:32:59,160 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:32:59,160 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 09:32:59,160 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:32:59,160 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:32:59,161 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 09:32:59,161 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 09:32:59,161 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 09:32:59,161 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:32:59,161 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:32:59,161 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 09:32:59,161 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:32:59,162 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 09:32:59,162 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:32:59,162 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:32:59,162 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 09:32:59,162 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 09:32:59,162 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 09:32:59,162 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:32:59,162 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:32:59,163 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 09:32:59,163 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 09:32:59,163 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 09:32:59,163 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:32:59,163 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:32:59,164 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 09:32:59,164 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 09:32:59,164 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 09:32:59,164 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:32:59,164 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:32:59,165 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 09:32:59,165 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:32:59,165 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 09:32:59,165 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:32:59,165 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:32:59,165 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 09:32:59,166 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 09:32:59,166 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 09:32:59,166 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:32:59,166 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:32:59,166 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 09:32:59,166 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 09:32:59,166 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 09:33:18,208 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 09:33:18,219 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 09:33:18,219 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 09:33:18,263 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 09:33:18,263 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 09:33:18,288 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 09:33:18,289 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:33:18,289 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:33:18,291 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 09:33:18,291 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:33:18,291 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 09:33:18,291 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:33:18,291 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:33:18,293 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 09:33:18,293 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:33:18,293 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 09:33:18,293 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:33:18,293 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:33:18,295 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 09:33:18,296 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 09:33:18,296 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 09:33:18,296 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:33:18,296 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:33:18,298 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 09:33:18,298 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:33:18,298 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 09:33:18,298 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:33:18,298 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:33:18,300 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 09:33:18,300 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 09:33:18,300 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 09:33:18,300 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:33:18,300 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:33:18,302 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 09:33:18,302 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 09:33:18,302 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 09:33:18,302 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:33:18,302 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:33:18,304 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 09:33:18,304 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 09:33:18,304 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 09:33:18,304 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:33:18,304 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:33:18,306 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 09:33:18,306 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:33:18,306 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 09:33:18,306 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:33:18,306 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:33:18,308 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 09:33:18,308 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 09:33:18,308 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 09:33:18,308 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:33:18,308 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:33:18,329 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 09:33:18,329 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 09:33:18,329 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 09:36:52,232 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 09:36:52,245 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 09:36:52,245 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 09:36:52,281 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 09:36:52,281 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 09:36:52,293 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 09:36:52,293 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:36:52,293 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:36:52,294 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 09:36:52,294 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:36:52,294 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 09:36:52,294 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:36:52,294 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:36:52,295 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 09:36:52,295 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:36:52,295 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 09:36:52,295 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:36:52,295 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:36:52,295 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 09:36:52,295 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 09:36:52,296 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 09:36:52,296 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:36:52,296 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:36:52,296 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 09:36:52,296 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:36:52,296 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 09:36:52,296 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:36:52,296 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:36:52,297 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 09:36:52,297 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 09:36:52,297 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 09:36:52,297 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:36:52,297 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:36:52,298 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 09:36:52,298 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 09:36:52,298 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 09:36:52,298 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:36:52,298 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:36:52,299 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 09:36:52,299 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 09:36:52,299 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 09:36:52,299 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:36:52,299 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:36:52,299 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 09:36:52,299 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:36:52,299 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 09:36:52,300 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:36:52,300 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:36:52,300 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 09:36:52,300 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 09:36:52,300 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 09:36:52,300 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:36:52,300 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:36:52,301 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 09:36:52,301 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 09:36:52,301 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 09:40:01,638 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 09:40:01,654 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 09:40:01,654 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 09:40:01,699 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 09:40:01,699 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 09:40:01,725 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 09:40:01,725 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:01,725 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:01,726 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 09:40:01,727 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:40:01,727 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 09:40:01,727 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:40:01,727 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:40:01,728 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 09:40:01,728 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:40:01,728 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 09:40:01,728 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:40:01,728 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:40:01,730 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 09:40:01,730 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 09:40:01,730 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 09:40:01,730 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:40:01,730 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:40:01,731 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 09:40:01,731 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:40:01,731 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 09:40:01,731 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:40:01,731 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:40:01,732 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 09:40:01,732 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 09:40:01,732 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 09:40:01,733 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:40:01,733 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:40:01,734 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 09:40:01,734 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 09:40:01,734 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 09:40:01,734 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:01,734 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:01,735 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 09:40:01,735 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 09:40:01,735 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 09:40:01,735 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:01,735 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:01,736 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 09:40:01,736 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:40:01,736 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 09:40:01,736 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:01,736 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:01,737 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 09:40:01,737 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 09:40:01,737 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 09:40:01,737 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:01,737 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:01,738 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 09:40:01,738 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 09:40:01,738 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 09:40:36,200 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 09:40:36,211 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 09:40:36,211 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 09:40:36,251 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 09:40:36,251 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 09:40:36,265 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 09:40:36,265 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:36,265 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:36,266 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 09:40:36,266 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:40:36,266 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 09:40:36,266 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:40:36,266 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:40:36,267 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 09:40:36,267 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:40:36,267 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 09:40:36,267 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:40:36,267 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:40:36,268 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 09:40:36,268 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 09:40:36,268 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 09:40:36,268 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:40:36,268 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:40:36,269 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 09:40:36,269 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:40:36,269 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 09:40:36,269 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:40:36,269 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:40:36,269 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 09:40:36,270 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 09:40:36,270 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 09:40:36,270 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:40:36,270 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:40:36,270 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 09:40:36,270 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 09:40:36,270 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 09:40:36,270 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:36,270 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:36,271 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 09:40:36,271 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 09:40:36,271 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 09:40:36,271 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:36,271 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:36,272 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 09:40:36,272 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:40:36,272 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 09:40:36,272 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:36,272 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:36,273 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 09:40:36,273 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 09:40:36,273 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 09:40:36,273 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:36,273 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:36,274 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 09:40:36,274 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 09:40:36,274 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 09:40:48,569 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 09:40:48,573 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 09:40:48,573 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 09:40:48,587 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 09:40:48,587 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 09:40:48,595 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 09:40:48,595 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:48,595 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:48,596 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 09:40:48,596 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:40:48,596 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 09:40:48,596 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:40:48,596 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:40:48,597 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 09:40:48,597 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:40:48,597 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 09:40:48,597 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:40:48,597 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:40:48,598 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 09:40:48,598 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 09:40:48,598 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 09:40:48,598 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:40:48,598 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:40:48,598 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 09:40:48,598 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 09:40:48,598 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 09:40:48,598 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 09:40:48,598 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 09:40:48,599 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 09:40:48,599 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 09:40:48,599 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 09:40:48,599 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 09:40:48,599 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 09:40:48,600 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 09:40:48,600 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 09:40:48,600 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 09:40:48,600 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:48,600 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:48,600 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 09:40:48,600 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 09:40:48,601 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 09:40:48,601 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:48,601 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:48,601 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 09:40:48,601 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 09:40:48,601 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 09:40:48,601 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:48,601 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:48,602 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 09:40:48,602 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 09:40:48,602 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 09:40:48,602 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 09:40:48,602 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 09:40:48,603 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 09:40:48,603 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 09:40:48,603 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 11:43:28,036 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 11:43:28,114 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 11:43:28,114 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 11:43:28,129 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 11:43:28,129 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 11:43:28,138 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 11:43:28,138 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:28,138 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:28,140 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 11:43:28,140 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 11:43:28,140 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 11:43:28,140 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:43:28,140 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:43:28,142 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 11:43:28,142 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 11:43:28,142 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 11:43:28,142 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 11:43:28,142 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 11:43:28,143 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 11:43:28,143 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 11:43:28,143 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 11:43:28,143 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:43:28,143 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:43:28,144 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 11:43:28,144 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 11:43:28,144 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 11:43:28,144 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 11:43:28,144 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 11:43:28,145 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 11:43:28,145 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 11:43:28,145 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 11:43:28,145 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:43:28,145 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:43:28,146 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 11:43:28,146 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 11:43:28,146 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 11:43:28,146 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:28,146 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:28,148 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 11:43:28,148 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 11:43:28,148 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 11:43:28,148 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:28,148 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:28,149 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 11:43:28,149 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 11:43:28,149 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 11:43:28,149 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:28,149 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:28,151 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 11:43:28,151 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 11:43:28,151 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 11:43:28,151 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:28,151 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:28,151 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 11:43:28,151 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 11:43:28,151 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 11:43:44,154 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 11:43:44,157 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 11:43:44,157 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 11:43:44,170 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 11:43:44,170 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 11:43:44,178 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 11:43:44,178 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:44,178 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:44,179 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 11:43:44,179 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 11:43:44,179 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 11:43:44,179 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:43:44,179 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:43:44,180 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 11:43:44,180 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 11:43:44,180 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 11:43:44,180 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 11:43:44,180 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 11:43:44,180 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 11:43:44,181 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 11:43:44,181 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 11:43:44,181 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:43:44,181 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:43:44,181 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 11:43:44,181 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 11:43:44,181 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 11:43:44,181 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 11:43:44,181 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 11:43:44,182 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 11:43:44,182 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 11:43:44,182 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 11:43:44,182 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:43:44,182 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:43:44,183 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 11:43:44,183 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 11:43:44,183 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 11:43:44,183 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:44,183 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:44,183 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 11:43:44,183 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 11:43:44,183 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 11:43:44,183 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:44,183 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:44,184 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 11:43:44,184 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 11:43:44,184 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 11:43:44,184 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:44,184 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:44,185 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 11:43:44,185 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 11:43:44,185 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 11:43:44,185 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:44,185 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:44,185 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 11:43:44,185 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 11:43:44,185 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 11:43:56,498 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 11:43:56,501 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 11:43:56,501 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 11:43:56,515 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 11:43:56,515 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 11:43:56,524 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 11:43:56,524 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:56,524 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:56,525 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 11:43:56,525 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 11:43:56,525 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 11:43:56,525 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:43:56,525 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:43:56,526 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 11:43:56,526 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 11:43:56,526 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 11:43:56,526 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 11:43:56,526 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 11:43:56,527 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 11:43:56,527 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 11:43:56,527 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 11:43:56,527 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:43:56,527 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:43:56,527 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 11:43:56,527 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 11:43:56,527 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 11:43:56,527 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 11:43:56,527 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 11:43:56,528 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 11:43:56,528 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 11:43:56,528 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 11:43:56,528 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:43:56,528 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:43:56,529 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 11:43:56,529 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 11:43:56,529 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 11:43:56,529 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:56,529 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:56,530 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 11:43:56,530 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 11:43:56,530 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 11:43:56,530 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:56,530 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:56,531 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 11:43:56,531 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 11:43:56,531 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 11:43:56,531 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:56,531 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:56,531 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 11:43:56,531 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 11:43:56,531 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 11:43:56,531 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:43:56,531 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:43:56,532 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 11:43:56,532 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 11:43:56,532 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 11:48:34,039 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 11:48:34,051 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 11:48:34,051 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 11:48:34,090 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 11:48:34,090 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 11:48:34,104 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 11:48:34,105 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:48:34,105 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:48:34,106 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 11:48:34,106 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 11:48:34,106 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 11:48:34,106 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:48:34,106 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:48:34,107 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 11:48:34,107 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 11:48:34,107 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 11:48:34,107 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 11:48:34,107 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 11:48:34,108 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 11:48:34,108 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 11:48:34,108 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 11:48:34,108 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:48:34,108 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:48:34,109 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 11:48:34,109 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 11:48:34,109 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 11:48:34,109 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 11:48:34,109 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 11:48:34,110 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 11:48:34,110 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 11:48:34,110 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 11:48:34,110 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 11:48:34,110 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 11:48:34,112 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 11:48:34,112 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 11:48:34,112 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 11:48:34,112 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:48:34,112 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:48:34,113 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 11:48:34,113 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 11:48:34,113 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 11:48:34,113 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:48:34,113 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:48:34,114 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 11:48:34,114 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 11:48:34,114 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 11:48:34,114 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:48:34,114 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:48:34,115 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 11:48:34,115 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 11:48:34,115 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 11:48:34,115 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 11:48:34,115 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 11:48:34,116 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 11:48:34,116 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 11:48:34,116 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 13:41:03,504 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 13:41:03,680 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 13:41:03,681 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 13:41:03,694 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 13:41:03,694 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 13:41:03,702 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 13:41:03,702 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 13:41:03,702 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 13:41:03,704 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 13:41:03,706 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 13:41:03,706 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 13:41:03,706 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 13:41:03,706 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 13:41:03,707 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 13:41:03,707 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 13:41:03,707 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 13:41:03,707 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 13:41:03,707 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 13:41:03,708 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 13:41:03,708 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 13:41:03,708 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 13:41:03,708 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 13:41:03,708 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 13:41:03,709 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 13:41:03,709 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 13:41:03,709 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 13:41:03,709 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 13:41:03,709 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 13:41:03,710 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 13:41:03,710 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 13:41:03,710 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 13:41:03,710 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 13:41:03,710 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 13:41:03,711 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 13:41:03,711 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 13:41:03,711 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 13:41:03,711 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 13:41:03,711 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 13:41:03,712 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 13:41:03,713 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 13:41:03,713 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 13:41:03,713 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 13:41:03,713 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 13:41:03,714 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 13:41:03,714 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 13:41:03,714 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 13:41:03,714 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 13:41:03,714 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 13:41:03,715 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 13:41:03,715 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 13:41:03,715 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 13:41:03,715 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 13:41:03,715 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 13:41:03,716 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 13:41:03,716 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 13:41:03,716 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-09-09 14:12:11,666 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-09-09 14:12:11,735 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-09-09 14:12:11,735 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-09-09 14:12:11,748 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-09-09 14:12:11,748 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-09-09 14:12:11,755 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-09-09 14:12:11,756 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 14:12:11,756 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 14:12:11,756 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-09-09 14:12:11,756 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 14:12:11,756 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-09-09 14:12:11,756 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 14:12:11,756 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 14:12:11,757 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-09-09 14:12:11,757 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 14:12:11,757 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-09-09 14:12:11,757 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 14:12:11,757 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 14:12:11,758 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-09-09 14:12:11,758 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-09-09 14:12:11,758 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-09-09 14:12:11,758 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 14:12:11,758 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 14:12:11,758 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-09-09 14:12:11,758 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-09-09 14:12:11,758 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-09-09 14:12:11,758 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-09-09 14:12:11,758 JIRATOOLSLEVEL [Logging] Country found: France
+2024-09-09 14:12:11,759 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-09-09 14:12:11,759 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-09-09 14:12:11,759 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-09-09 14:12:11,759 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-09-09 14:12:11,759 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-09-09 14:12:11,760 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-09-09 14:12:11,760 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-09-09 14:12:11,760 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-09-09 14:12:11,760 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 14:12:11,760 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 14:12:11,760 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-09-09 14:12:11,761 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-09-09 14:12:11,761 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-09-09 14:12:11,761 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 14:12:11,761 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 14:12:11,761 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-09-09 14:12:11,761 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-09-09 14:12:11,761 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-09-09 14:12:11,761 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 14:12:11,761 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 14:12:11,762 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-09-09 14:12:11,762 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-09-09 14:12:11,762 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-09-09 14:12:11,762 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-09-09 14:12:11,762 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-09-09 14:12:11,763 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-09-09 14:12:11,763 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-09-09 14:12:11,763 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12
+2024-10-16 14:51:57,701 JIRATOOLSLEVEL [Logging] Filter Id: 10100
+2024-10-16 14:51:57,730 JIRATOOLSLEVEL [Logging] Number of Main Issues: 2
+2024-10-16 14:51:57,730 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-2
+2024-10-16 14:51:57,752 JIRATOOLSLEVEL [Logging] Found 6 linked issues for Main Issue: DEN-2
+2024-10-16 14:51:57,752 JIRATOOLSLEVEL [Logging] Processing Main Issue: DEN-1
+2024-10-16 14:51:57,764 JIRATOOLSLEVEL [Logging] Found 4 linked issues for Main Issue: DEN-1
+2024-10-16 14:51:57,765 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-10-16 14:51:57,765 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-10-16 14:51:57,767 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 9
+2024-10-16 14:51:57,768 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-10-16 14:51:57,768 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 1
+2024-10-16 14:51:57,768 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-10-16 14:51:57,769 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-10-16 14:51:57,770 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 4
+2024-10-16 14:51:57,770 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-10-16 14:51:57,770 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 6
+2024-10-16 14:51:57,770 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-10-16 14:51:57,770 JIRATOOLSLEVEL [Logging] Country found: France
+2024-10-16 14:51:57,772 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 1
+2024-10-16 14:51:57,772 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 2
+2024-10-16 14:51:57,772 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 3
+2024-10-16 14:51:57,772 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-10-16 14:51:57,772 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-10-16 14:51:57,773 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 7
+2024-10-16 14:51:57,773 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 2
+2024-10-16 14:51:57,773 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 1
+2024-10-16 14:51:57,773 JIRATOOLSLEVEL [Logging] Extracting country from username: Dubois, Dominique (France)
+2024-10-16 14:51:57,773 JIRATOOLSLEVEL [Logging] Country found: France
+2024-10-16 14:51:57,775 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for France: 6
+2024-10-16 14:51:57,775 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for France: 3
+2024-10-16 14:51:57,775 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for France: 4
+2024-10-16 14:51:57,775 JIRATOOLSLEVEL [Logging] Extracting country from username: McGill, Chris (USA)
+2024-10-16 14:51:57,775 JIRATOOLSLEVEL [Logging] Country found: USA
+2024-10-16 14:51:57,776 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for USA: 18
+2024-10-16 14:51:57,776 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for USA: 10
+2024-10-16 14:51:57,776 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for USA: 15
+2024-10-16 14:51:57,776 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-10-16 14:51:57,776 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-10-16 14:51:57,777 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 3
+2024-10-16 14:51:57,777 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 2
+2024-10-16 14:51:57,777 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 4
+2024-10-16 14:51:57,777 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-10-16 14:51:57,777 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-10-16 14:51:57,779 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 2
+2024-10-16 14:51:57,779 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 1
+2024-10-16 14:51:57,779 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 3
+2024-10-16 14:51:57,779 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-10-16 14:51:57,779 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-10-16 14:51:57,780 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 5
+2024-10-16 14:51:57,780 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 3
+2024-10-16 14:51:57,781 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 5
+2024-10-16 14:51:57,781 JIRATOOLSLEVEL [Logging] Extracting country from username: Kaya, Ali (Turkey)
+2024-10-16 14:51:57,781 JIRATOOLSLEVEL [Logging] Country found: Turkey
+2024-10-16 14:51:57,781 JIRATOOLSLEVEL [Logging] Resolution Effort (hrs) for Turkey: 10
+2024-10-16 14:51:57,781 JIRATOOLSLEVEL [Logging] Review Effort (hrs) for Turkey: 6
+2024-10-16 14:51:57,781 JIRATOOLSLEVEL [Logging] Rework Effort (hrs) for Turkey: 12

@@ -1,0 +1,6 @@
+jira\phinia\tciz\reports\api\MyPluginComponent.class
+jira\phinia\tciz\utils\LoggingLevel.class
+jira\phinia\tciz\jira\reports\EffortSummary.class
+jira\phinia\tciz\utils\Logging.class
+jira\phinia\tciz\reports\impl\MyPluginComponentImpl.class
+jira\phinia\tciz\utils\Utils.class

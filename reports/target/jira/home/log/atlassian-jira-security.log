@@ -1,0 +1,96 @@
+2024-08-14 18:09:09,036 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-08-14 18:14:50,968 http-nio-2990-exec-5 anonymous 1094x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [1a2iqbr]
+2024-08-14 18:15:04,853 http-nio-2990-exec-9 anonymous 1095x914x1 1a2iqbr 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login login : 'adm' tried to login but they do not have USE permission or weren't found. Deleting remember me cookie.
+2024-08-14 18:15:12,147 http-nio-2990-exec-6 anonymous 1095x915x1 1a2iqbr 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [1a2iqbr] destroyed for 'anonymous'
+2024-08-14 18:15:12,149 http-nio-2990-exec-6 anonymous 1095x915x1 1a2iqbr 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [7nm7qc]
+2024-08-14 18:15:12,174 http-nio-2990-exec-6 admin 1095x915x1 1a2iqbr 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-08-15 08:47:19,024 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-08-15 08:47:38,132 http-nio-2990-exec-3   -   HttpSession created [1nwlrfb]
+2024-08-15 08:47:55,540 http-nio-2990-exec-7 anonymous 527x913x1 1nwlrfb 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [1nwlrfb] destroyed for 'anonymous'
+2024-08-15 08:47:55,540 http-nio-2990-exec-7 anonymous 527x913x1 1nwlrfb 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [eixdrv]
+2024-08-15 08:47:55,572 http-nio-2990-exec-7 admin 527x913x1 1nwlrfb 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-08-15 09:11:54,995 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-08-15 09:13:06,276 http-nio-2990-exec-5 anonymous 553x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [pikqcb]
+2024-08-15 09:13:25,548 http-nio-2990-exec-10 anonymous 553x913x1 pikqcb 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [pikqcb] destroyed for 'anonymous'
+2024-08-15 09:13:25,548 http-nio-2990-exec-10 anonymous 553x913x1 pikqcb 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [qrq9ar]
+2024-08-15 09:13:25,574 http-nio-2990-exec-10 admin 553x913x1 pikqcb 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-08-15 10:46:49,890 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-08-15 10:47:31,835 http-nio-2990-exec-6   -   HttpSession created [1omchuo]
+2024-08-15 10:47:50,335 http-nio-2990-exec-3 anonymous 647x918x1 1omchuo 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [1omchuo] destroyed for 'anonymous'
+2024-08-15 10:47:50,335 http-nio-2990-exec-3 anonymous 647x918x1 1omchuo 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [11heqdn]
+2024-08-15 10:47:50,363 http-nio-2990-exec-3 admin 647x918x1 1omchuo 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-08-20 14:53:39,683 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-08-20 15:03:31,070 http-nio-2990-exec-5 anonymous 903x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [3izjjb]
+2024-08-21 08:10:45,153 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-08-21 08:11:07,790 http-nio-2990-exec-3   -   HttpSession created [1ow6st7]
+2024-08-21 08:11:30,416 http-nio-2990-exec-2 anonymous 491x912x1 1ow6st7 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [1ow6st7] destroyed for 'anonymous'
+2024-08-21 08:11:30,417 http-nio-2990-exec-2 anonymous 491x912x1 1ow6st7 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [9lv98z]
+2024-08-21 08:11:30,447 http-nio-2990-exec-2 admin 491x912x1 1ow6st7 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-08-26 09:30:51,198 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-08-26 09:37:49,457 http-nio-2990-exec-5 anonymous 577x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [1ottj8m]
+2024-08-26 09:38:13,689 http-nio-2990-exec-7 anonymous 578x913x1 1ottj8m 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [1ottj8m] destroyed for 'anonymous'
+2024-08-26 09:38:13,690 http-nio-2990-exec-7 anonymous 578x913x1 1ottj8m 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [1fswrbu]
+2024-08-26 09:38:13,714 http-nio-2990-exec-7 admin 578x913x1 1ottj8m 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-08-27 08:23:03,460 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-08-27 08:26:22,251 http-nio-2990-exec-5 anonymous 506x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [1gdwr52]
+2024-08-27 08:26:39,155 http-nio-2990-exec-6 anonymous 506x913x1 1gdwr52 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [1gdwr52] destroyed for 'anonymous'
+2024-08-27 08:26:39,155 http-nio-2990-exec-6 anonymous 506x913x1 1gdwr52 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [1pzchxc]
+2024-08-27 08:26:39,178 http-nio-2990-exec-6 admin 506x913x1 1gdwr52 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-08-27 20:58:03,419 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-08-27 20:59:24,141 http-nio-2990-exec-4 anonymous 1259x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [1rs1ur2]
+2024-08-27 20:59:41,708 http-nio-2990-exec-10 anonymous 1259x913x1 1rs1ur2 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [1rs1ur2] destroyed for 'anonymous'
+2024-08-27 20:59:41,709 http-nio-2990-exec-10 anonymous 1259x913x1 1rs1ur2 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [1y10h6o]
+2024-08-27 20:59:41,732 http-nio-2990-exec-10 admin 1259x913x1 1rs1ur2 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-08-28 08:17:25,477 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-08-28 08:18:10,038 http-nio-2990-exec-3   -   HttpSession created [1oy3ebv]
+2024-08-28 08:19:36,959 http-nio-2990-exec-6 anonymous 499x913x1 1oy3ebv 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [1oy3ebv] destroyed for 'anonymous'
+2024-08-28 08:19:36,959 http-nio-2990-exec-6 anonymous 499x913x1 1oy3ebv 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [5bddxn]
+2024-08-28 08:19:36,984 http-nio-2990-exec-6 admin 499x913x1 1oy3ebv 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-08-28 14:18:05,453 ContainerBackgroundProcessor[StandardEngine[Catalina]]      HttpSession [5bddxn] destroyed for 'admin'
+2024-08-28 15:40:45,222 http-nio-2990-exec-7 anonymous 940x18271x1 - 0:0:0:0:0:0:0:1 /login.jsp HttpSession created [1g3xbkq]
+2024-08-28 15:40:54,431 http-nio-2990-exec-3 anonymous 940x18948x1 1g3xbkq 0:0:0:0:0:0:0:1 /login.jsp login : 'admin' tried to login but they do not have USE permission or weren't found. Deleting remember me cookie.
+2024-08-28 15:40:54,437 http-nio-2990-exec-3 anonymous 940x18948x1 1g3xbkq 0:0:0:0:0:0:0:1 /login.jsp The user 'admin' has FAILED authentication.  Failure count equals 1
+2024-08-28 15:41:00,738 http-nio-2990-exec-8 anonymous 941x19625x1 1g3xbkq 0:0:0:0:0:0:0:1 /login.jsp HttpSession [1g3xbkq] destroyed for 'anonymous'
+2024-08-28 15:41:00,739 http-nio-2990-exec-8 anonymous 941x19625x1 1g3xbkq 0:0:0:0:0:0:0:1 /login.jsp HttpSession created [1dptl2f]
+2024-08-28 15:41:00,742 http-nio-2990-exec-8 admin 941x19625x1 1g3xbkq 0:0:0:0:0:0:0:1 /login.jsp The user 'admin' has PASSED authentication.
+2024-09-02 08:11:44,405 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-09-02 08:26:18,825 http-nio-2990-exec-5 anonymous 506x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [ifruf2]
+2024-09-02 08:26:51,808 http-nio-2990-exec-5 anonymous 506x914x1 ifruf2 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [ifruf2] destroyed for 'anonymous'
+2024-09-02 08:26:51,808 http-nio-2990-exec-5 anonymous 506x914x1 ifruf2 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [1o8d6t]
+2024-09-02 08:26:51,835 http-nio-2990-exec-5 admin 506x914x1 ifruf2 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-09-03 08:14:54,411 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-09-03 08:16:30,541 http-nio-2990-exec-5 anonymous 496x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [qgzqyf]
+2024-09-03 08:16:46,551 http-nio-2990-exec-2 anonymous 496x913x1 qgzqyf 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login login : 'adm' tried to login but they do not have USE permission or weren't found. Deleting remember me cookie.
+2024-09-03 08:16:51,151 http-nio-2990-exec-3 anonymous 496x914x1 qgzqyf 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [qgzqyf] destroyed for 'anonymous'
+2024-09-03 08:16:51,152 http-nio-2990-exec-3 anonymous 496x914x1 qgzqyf 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [16z1try]
+2024-09-03 08:16:51,177 http-nio-2990-exec-3 admin 496x914x1 qgzqyf 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-09-04 08:46:40,622 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-09-04 16:11:12,562 http-nio-2990-exec-9 anonymous 971x9x1 - 0:0:0:0:0:0:0:1 / HttpSession created [1s2cqy6]
+2024-09-04 16:11:38,169 http-nio-2990-exec-2 anonymous 971x934x1 1s2cqy6 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [1s2cqy6] destroyed for 'anonymous'
+2024-09-04 16:11:38,170 http-nio-2990-exec-2 anonymous 971x934x1 1s2cqy6 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [16ghbpw]
+2024-09-04 16:11:39,252 http-nio-2990-exec-2 admin 971x934x1 1s2cqy6 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-09-05 09:33:13,833 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-09-05 09:55:08,202 http-nio-2990-exec-5 anonymous 595x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [1g21567]
+2024-09-05 09:56:53,429 http-nio-2990-exec-5 anonymous 596x927x1 1g21567 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [1g21567] destroyed for 'anonymous'
+2024-09-05 09:56:53,429 http-nio-2990-exec-5 anonymous 596x927x1 1g21567 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [14bx1rn]
+2024-09-05 09:56:53,453 http-nio-2990-exec-5 admin 596x927x1 1g21567 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-09-05 19:25:58,508 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-09-05 19:26:40,209 http-nio-2990-exec-3   -   HttpSession created [10h8ici]
+2024-09-05 19:26:58,742 http-nio-2990-exec-1 anonymous 1166x926x1 10h8ici 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [10h8ici] destroyed for 'anonymous'
+2024-09-05 19:26:58,742 http-nio-2990-exec-1 anonymous 1166x926x1 10h8ici 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [1amk8ez]
+2024-09-05 19:26:58,773 http-nio-2990-exec-1 admin 1166x926x1 10h8ici 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-09-06 08:18:36,564 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-09-06 08:19:39,284 http-nio-2990-exec-5   -   HttpSession created [xiod1m]
+2024-09-06 08:19:57,708 http-nio-2990-exec-9 anonymous 499x927x1 xiod1m 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [xiod1m] destroyed for 'anonymous'
+2024-09-06 08:19:57,708 http-nio-2990-exec-9 anonymous 499x927x1 xiod1m 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [c2qb8b]
+2024-09-06 08:19:57,777 http-nio-2990-exec-9 admin 499x927x1 xiod1m 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-09-09 08:35:17,721 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-09-09 08:40:30,176 http-nio-2990-exec-5 anonymous 520x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [ry398g]
+2024-09-09 08:40:48,940 http-nio-2990-exec-10 anonymous 520x927x1 ry398g 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [ry398g] destroyed for 'anonymous'
+2024-09-09 08:40:48,940 http-nio-2990-exec-10 anonymous 520x927x1 ry398g 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [4jcgbb]
+2024-09-09 08:40:48,965 http-nio-2990-exec-10 admin 520x927x1 ry398g 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.
+2024-10-16 10:09:06,234 localhost-startStop-1      JIRA 7.13.0 build: 713000 started. You can now access JIRA through your web browser.
+2024-10-16 10:47:36,913 http-nio-2990-exec-7 anonymous 647x2x1 - 0:0:0:0:0:0:0:1 / HttpSession created [15jiupp]
+2024-10-16 11:26:47,836 http-nio-2990-exec-10 anonymous 686x929x1 15jiupp 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession [15jiupp] destroyed for 'anonymous'
+2024-10-16 11:26:47,837 http-nio-2990-exec-10 anonymous 686x929x1 15jiupp 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login HttpSession created [1xqh512]
+2024-10-16 11:26:47,861 http-nio-2990-exec-10 admin 686x929x1 15jiupp 0:0:0:0:0:0:0:1 /rest/gadget/1.0/login The user 'admin' has PASSED authentication.

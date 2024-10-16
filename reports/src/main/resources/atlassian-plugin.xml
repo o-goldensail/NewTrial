@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<atlassian-plugin key="${atlassian.plugin.key}" name="${project.name}" plugins-version="2"> 
+  <plugin-info> 
+    <description>${project.description}</description>  
+    <version>${project.version}</version>  
+    <vendor name="${project.organization.name}" url="${project.organization.url}"/>  
+    <param name="plugin-icon">images/pluginIcon.png</param>  
+    <param name="plugin-logo">images/pluginLogo.png</param> 
+  </plugin-info>  
+  <!-- add our i18n resource -->  
+  <resource type="i18n" name="i18n" location="reports"/>  
+  <!-- add our web resources -->  
+  <web-resource key="reports-resources" name="reports Web Resources"> 
+    <dependency>com.atlassian.auiplugin:ajs</dependency>  
+    <resource type="download" name="reports.css" location="/css/reports.css"/>  
+    <resource type="download" name="reports.js" location="/js/reports.js"/>  
+    <resource type="download" name="images/" location="/images"/>  
+    <context>reports</context> 
+  </web-resource>  
+  <report name="Effort Summary" i18n-name-key="effort-summary.name" key="effort-summary" class="jira.phinia.tciz.jira.reports.EffortSummary"> 
+    <description key="effort-summary.description">The Effort Summary Plugin</description>  
+    <resource name="view" type="velocity" location="/templates/reports/effort-summary/view.vm"/>  
+    <resource name="i18n" type="i18n" location="EffortSummary"/>  
+    <label key="effort-summary.label"></label>
+    <properties>
+        <property>
+            <key>filterid</key>
+            <name>report.singlelevelgroupby.filterId</name>
+            <description>report.singlelevelgroupby.filterId.description</description>
+            <type>filterpicker</type>
+            <i18n>false</i18n>
+        </property>
+    </properties>
+  </report>
+</atlassian-plugin>

@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Atlassian-Build-Date: 2024-10-16T15:33:18+0300
+Atlassian-Plugin-Key: jira.phinia.tciz.reports
+Bnd-LastModified: 1729081999720
+Build-Jdk: 1.8.0_421
+Built-By: orkun
+Bundle-Description: This is the jira.phinia.tciz:reports plugin for Atla
+ ssian JIRA.
+Bundle-DocURL: http://www.example.com/
+Bundle-ManifestVersion: 2
+Bundle-Name: reports
+Bundle-SymbolicName: jira.phinia.tciz.reports
+Bundle-Vendor: Example Company
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: jira.phinia.tciz.reports.api;version="1.0.0"
+Import-Package: com.atlassian.jira.bc.issue.search,com.atlassian.jira.co
+ mponent,com.atlassian.jira.config.properties,com.atlassian.jira.config.
+ util,com.atlassian.jira.issue,com.atlassian.jira.issue.changehistory,co
+ m.atlassian.jira.issue.fields,com.atlassian.jira.issue.history,com.atla
+ ssian.jira.issue.link,com.atlassian.jira.issue.resolution,com.atlassian
+ .jira.issue.search,com.atlassian.jira.issue.status,com.atlassian.jira.p
+ lugin.report,com.atlassian.jira.plugin.report.impl,com.atlassian.jira.p
+ roject,com.atlassian.jira.project.version,com.atlassian.jira.security,c
+ om.atlassian.jira.user,com.atlassian.jira.web.action,com.atlassian.jira
+ .web.bean,com.atlassian.jira.workflow,com.atlassian.plugin.spring.scann
+ er.annotation.export,com.atlassian.plugin.spring.scanner.annotation.imp
+ orts,com.atlassian.query,com.atlassian.sal.api,javax.inject,jira.phinia
+ .tciz.reports.api;version="[1.0,2)",org.apache.log4j,org.apache.log4j.s
+ pi
+Originally-Created-By: Apache Maven Bundle Plugin
+Spring-Context: *
+Tool: Bnd-3.5.0.201709291849
